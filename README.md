@@ -5,7 +5,7 @@ This portfolio is made using [Next.js](https://nextjs.org/) project and [Tailwin
 Steps to locally setup development after cloning the project.
 
 ```sh
-git clone https://github.com/ippankbro/landing-page.git
+git clone https://github.com/ippankbro/next13-portfolio
 ```
 
 Note: You will need:
