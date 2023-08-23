@@ -17,7 +17,7 @@ Please install them if you don't have them already.
 ### Step 1 - Install dependencies
 
 ```bash
-cd landing-page
+cd next13-portfolio
 ```
 
 ```bash
